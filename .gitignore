@@ -1,7 +1,6 @@
 node_modules
 *.log
 .jshintrc
-dist
 assets
 .idea
 .DS_Store
